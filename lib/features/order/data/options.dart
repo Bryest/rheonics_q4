@@ -4,6 +4,7 @@ const viscosityOptions = [
   'V2', // 3–50,000 cP
   'V3', // 0–5000 cP
   'V4', // Custom
+  'V5', // Custom
 ];
 
 // ---------- Calibration ----------
